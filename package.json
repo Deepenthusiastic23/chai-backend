@@ -6,6 +6,14 @@
     "node",
     "chai"
   ],
+  "homepage": "https://github.com/Deepenthusiastic23/chai-backend#readme",
+  "bugs": {
+    "url": "https://github.com/Deepenthusiastic23/chai-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepenthusiastic23/chai-backend.git"
+  },
   "license": "ISC",
   "author": "Deepak Thakur",
   "type": "commonjs",
