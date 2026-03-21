@@ -19,7 +19,7 @@
   "author": "Deepak Thakur",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js"
+    "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
   },
   "dependencies": {
     "dotenv": "^17.3.1",
